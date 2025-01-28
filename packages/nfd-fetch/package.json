@@ -1,0 +1,27 @@
+{
+  "name": "@awesome-algorand/nfd-fetch",
+  "description": "Generated fetch library for NF Domains",
+  "version": "0.0.1-experimental",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./lib/index.d.ts",
+      "default": "./lib/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "generate": "npx @hey-api/openapi-ts -c @hey-api/client-fetch -i https://api.nf.domains/info/openapi3.yaml -o ./src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Awesome Algorand",
+  "license": "Unlicense",
+  "peerDependencies": {
+    "@hey-api/client-fetch": "^0.7.2"
+  },
+  "devDependencies": {
+    "@hey-api/client-fetch": "^0.7.2",
+    "typescript": "^5.7.3"
+  }
+}

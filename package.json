@@ -1,0 +1,10 @@
+{
+  "name": "@awesome-algorand/toolkit",
+  "description": "Random tools for Algorand",
+  "workspaces": [
+    "packages/*"
+  ],
+  "author": "Awesome Algorand",
+  "license": "Unlicense"
+
+}
