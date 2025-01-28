@@ -1,9 +1,13 @@
 {
   "name": "@awesome-algorand/nfd-fetch",
   "description": "Generated fetch library for NF Domains",
-  "version": "0.0.1-experimental",
+  "version": "0.0.1-experimental.1",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
+  "files": [
+    "lib",
+    "src"
+  ],
   "exports": {
     ".": {
       "types": "./lib/index.d.ts",
