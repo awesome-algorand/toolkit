@@ -1,0 +1,347 @@
+[
+  {
+    "appID": 802653549,
+    "asaID": 802653555,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2025-11-18T21:42:12Z",
+    "timeCreated": "2022-07-09T14:13:37Z",
+    "timeChanged": "2024-11-19T00:38:48Z",
+    "timePurchased": "2023-03-07T02:13:55Z",
+    "currentAsOfBlock": 44506822,
+    "depositAccount": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "nfdAccount": "HER57EI56P5EWZ3OCJ4V7FWL7VSHX34TRAA3TAF5LQQEEYVJINCRCWNKYM",
+    "name": "phear.algo",
+    "owner": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "seller": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "metaTags": [
+      "5_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "properties": {
+      "internal": {
+        "asaid": "802653555",
+        "category": "common",
+        "contractLocked": "0",
+        "expirationTime": "1763502132",
+        "highestSoldAmt": "385000000",
+        "name": "phear.algo",
+        "owner": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+        "saleType": "buyItNow",
+        "segmentLocked": "1",
+        "seller": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+        "timeChanged": "1731976728",
+        "timeCreated": "1657376017",
+        "timePurchased": "1678155235",
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "address": "Maryland, USA",
+        "avatar": "https://images.nf.domains/avatar/a1481ef6-ee4a-4971-99e9-32a8bdef001f",
+        "banner": "https://images.nf.domains/banner/878fcfdc-61b0-4caa-9e80-350080838969",
+        "bio": "Autistic Mad Scientist",
+        "blueskydid": "did:plc:leymfq5nodaxy5lg3hk5oglm",
+        "discord": "PhearZero",
+        "name": "Michael Feher",
+        "twitter": "PhearZero"
+      },
+      "verified": {
+        "caAlgo": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+        "email": "contact@telluric.guru",
+        "github": "PhearZero",
+        "telegram": "1520683050"
+      }
+    },
+    "caAlgo": [
+      "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY"
+    ]
+  },
+  {
+    "appID": 763843768,
+    "asaID": 763843774,
+    "state": "owned",
+    "expired": false,
+    "timeCreated": "2022-06-03T04:16:34Z",
+    "timeChanged": "2025-01-16T05:32:32Z",
+    "timePurchased": "2022-06-04T22:15:36Z",
+    "currentAsOfBlock": 46282958,
+    "depositAccount": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "nfdAccount": "SDFPIY6JJ77XBDDAM3Y57R36ZPZ47UQ7CLGNG3AZ7FYNXXDZWNR4LTLH5M",
+    "name": "gabe.algo",
+    "owner": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "seller": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "metaTags": [
+      "4_letters",
+      "pristine"
+    ],
+    "category": "premium",
+    "saleType": "buyItNow",
+    "properties": {
+      "internal": {
+        "asaid": "763843774",
+        "category": "premium",
+        "commission1": "50",
+        "commission1Agent": "RSV2YCHXA7MWGFTX3WYI7TVGAS5W5XH5M7ZQVXPPRQ7DNTNW36OW2TRR6I",
+        "contractLocked": "1",
+        "highestSoldAmt": "1000000",
+        "name": "gabe.algo",
+        "owner": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+        "saleType": "buyItNow",
+        "seller": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+        "timeChanged": "1737005552",
+        "timeCreated": "1654229794",
+        "timePurchased": "1654380936",
+        "ver": "2.12"
+      },
+      "userDefined": {
+        "address": "Boulder, Colorado",
+        "avatar": "https://images.nf.domains/avatar/8694a54e-4028-4046-adba-896d984cdeb8",
+        "bio": "devrel @AlgoFoundation • formerly @txnlab @nfdomains • dev doing something",
+        "domain": "bemonko.com",
+        "linkedin": "https://www.linkedin.com/in/gabrielkuettel",
+        "name": "Gabriel Kuettel",
+        "prefs": "{\"hideBadges\":[\"consensus\",\"nodeRunner\"]}"
+      },
+      "verified": {
+        "avatar": "ipfs://QmX29ZFav2SpJ7DXhXmLdZ22uKzV1WDycFy5VNLZib3EVE",
+        "avatarasaid": "394743507",
+        "banner": "ipfs://bafybeiag7yek2wu3ahuzewygi2gaxj22mn3zcyaccxlgplg2lfsus6222q",
+        "bannerasaid": "438144202",
+        "caAlgo": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+        "discord": "249649086968496128",
+        "email": "gabriel.kuettel@algorand.foundation",
+        "github": "gabrielkuettel",
+        "twitter": "@gabrielkuettel"
+      }
+    },
+    "caAlgo": [
+      "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E"
+    ]
+  },
+  {
+    "appID": 841877282,
+    "asaID": 841877288,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2025-12-19T09:31:34Z",
+    "timeCreated": "2022-08-17T09:29:29Z",
+    "timeChanged": "2024-12-19T09:31:34Z",
+    "timePurchased": "2022-08-17T09:31:39Z",
+    "currentAsOfBlock": 45418384,
+    "depositAccount": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "nfdAccount": "5YK2K6U3SJM6QHJKCRHPHEVIEKJNPKTIOB2FQSYBPTZSQKU6SEPH6GNGVQ",
+    "name": "adri.algo",
+    "owner": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "seller": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "metaTags": [
+      "4_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "properties": {
+      "internal": {
+        "asaid": "841877288",
+        "category": "common",
+        "contractLocked": "0",
+        "expirationTime": "1766136694",
+        "highestSoldAmt": "555000000",
+        "name": "adri.algo",
+        "owner": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+        "saleType": "buyItNow",
+        "seller": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+        "timeChanged": "1734600694",
+        "timeCreated": "1660728569",
+        "timePurchased": "1660728699",
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "address": "Sydney, Australia",
+        "avatar": "https://images.nf.domains/avatar/357f1add-de51-458c-8bcb-5f2075b3de9f",
+        "banner": "https://images.nf.domains/banner/4c04dee3-a5d3-451e-a02f-54690a45f923",
+        "bio": "Algorand Foundation's Governance Program Manager. Host of the Blockchain Pro Podcast (on pause). In crypto since 2013.",
+        "email": "Belotti",
+        "name": "Adriana",
+        "url": "https://www.algorand.foundation/team",
+        "website": "https://algorand.foundation"
+      },
+      "verified": {
+        "avatar": "ipfs://QmYzsfJGgkp8baa7TjTFURbEkFD9L6qGwMhWQXUAVQVkfx",
+        "avatarasaid": "350085997",
+        "caAlgo": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+        "twitter": "@nonfungibleab"
+      }
+    },
+    "caAlgo": [
+      "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA"
+    ]
+  },
+  {
+    "appID": 765882196,
+    "asaID": 765882202,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2030-11-17T19:13:14Z",
+    "timeCreated": "2022-06-04T21:02:56Z",
+    "timeChanged": "2024-11-18T19:49:34Z",
+    "timePurchased": "2022-06-04T21:03:17Z",
+    "currentAsOfBlock": 44500782,
+    "depositAccount": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "nfdAccount": "AY4S53GQQ4SX3XK7N5FRYHCQ4SMQG5A5ALIHSC2T263PMIU6AFNAGLSPUE",
+    "name": "urtho.algo",
+    "owner": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "seller": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "metaTags": [
+      "5_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "properties": {
+      "internal": {
+        "asaid": "765882202",
+        "category": "common",
+        "contractLocked": "0",
+        "expirationTime": "1921173194",
+        "highestSoldAmt": "321500000",
+        "name": "urtho.algo",
+        "owner": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+        "saleType": "buyItNow",
+        "seller": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+        "timeChanged": "1731959374",
+        "timeCreated": "1654376576",
+        "timePurchased": "1654376597",
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "address": "~Poland",
+        "avatar": "https://images.nf.domains/avatar/15cd547f-10ac-46bb-bc63-67ec89b6e18e",
+        "banner": "https://images.nf.domains/banner/eb82cab3-7069-40f1-aaff-6a79b8833743",
+        "bio": "Cloud Architect (Google PCA), Carrier/Voice engineer, software eng. manager, serial start-upper.",
+        "linkedin": "https://www.linkedin.com/in/urtho/",
+        "name": "Paweł Pierścionek",
+        "url": "https://linkedin.com/in/urtho"
+      },
+      "verified": {
+        "blueskydid": "did:plc:gp533zwqswopbho3ms4kooum",
+        "caAlgo": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+        "discord": "688419370153672769",
+        "email": "invalid@data.pl",
+        "twitter": "@urthoo"
+      }
+    },
+    "caAlgo": [
+      "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU"
+    ]
+  },
+  {
+    "appID": 2608795815,
+    "parentAppID": 766401564,
+    "asaID": 2608795818,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2025-12-17T01:01:07Z",
+    "timeCreated": "2024-12-17T01:01:07Z",
+    "timeChanged": "2024-12-17T01:06:51Z",
+    "timePurchased": "2024-12-17T01:01:07Z",
+    "currentAsOfBlock": 45347749,
+    "depositAccount": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "nfdAccount": "F653GY3P4VDFPEKBOLQDXLEZVKQ6HSJ6VLSAZYSQTT6HB5NEYIKVPG3LI4",
+    "name": "evertdiaz.directory.algo",
+    "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "seller": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "metaTags": [
+      "9_letters",
+      "segment"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "properties": {
+      "internal": {
+        "asaid": "2608795818",
+        "category": "common",
+        "contractLocked": "0",
+        "expirationTime": "1765933267",
+        "highestSoldAmt": "12230000",
+        "name": "evertdiaz.directory.algo",
+        "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+        "parentAppID": "766401564",
+        "saleType": "buyItNow",
+        "segmentLocked": "1",
+        "seller": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+        "timeChanged": "1734397611",
+        "timeCreated": "1734397267",
+        "timePurchased": "1734397267",
+        "vaultOptInLocked": "0",
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "address": "Peru",
+        "avatar": "https://images.nf.domains/avatar/ca8cd126-79c0-4ad4-9ec3-e5bdf84244b3",
+        "bio": "Devrel Advocate",
+        "email": "evert@algorand.Foundation",
+        "github": "https://github.com/evertdiaz",
+        "linkedin": "https://linkedin.com/in/evertdiaz",
+        "name": "Evert Diaz",
+        "telegram": "https://t.me/evertdiaz",
+        "twitter": "evertdiazb"
+      }
+    }
+  },
+  {
+    "appID": 826576357,
+    "asaID": 826576363,
+    "state": "owned",
+    "expired": false,
+    "timeCreated": "2022-08-02T04:55:48Z",
+    "timeChanged": "2023-07-05T22:19:14Z",
+    "timePurchased": "2023-04-21T15:58:44Z",
+    "currentAsOfBlock": 30286952,
+    "depositAccount": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "nfdAccount": "HLXN67YZOO2RDCWF3LSIV5CESGWHXLDD7QQNHEH5COBRLCJZWZRSG4FJGY",
+    "name": "evertdiaz.algo",
+    "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "seller": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "metaTags": [
+      "9_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "properties": {
+      "internal": {
+        "asaid": "826576363",
+        "category": "common",
+        "commission1": "50",
+        "commission1Agent": "RSV2YCHXA7MWGFTX3WYI7TVGAS5W5XH5M7ZQVXPPRQ7DNTNW36OW2TRR6I",
+        "contractLocked": "0",
+        "highestSoldAmt": "72500000",
+        "name": "evertdiaz.algo",
+        "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+        "saleType": "buyItNow",
+        "seller": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+        "timeChanged": "1688595554",
+        "timeCreated": "1659416148",
+        "timePurchased": "1682092724",
+        "ver": "1.16"
+      },
+      "userDefined": {
+        "linkedin": "https://linkedin.com/in/evertdiaz",
+        "name": "Evert Diaz"
+      },
+      "verified": {
+        "caAlgo": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+        "discord": "555769566849007617",
+        "email": "evert@algorand.foundation",
+        "github": "evertdiaz",
+        "telegram": "1196227705",
+        "twitter": "@evertdiazb"
+      }
+    },
+    "caAlgo": [
+      "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ"
+    ]
+  }
+]

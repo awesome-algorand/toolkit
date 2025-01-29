@@ -1,0 +1,176 @@
+[
+  {
+    "appID": 802653549,
+    "asaID": 802653555,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2025-11-18T21:42:12Z",
+    "nfdAccount": "HER57EI56P5EWZ3OCJ4V7FWL7VSHX34TRAA3TAF5LQQEEYVJINCRCWNKYM",
+    "name": "phear.algo",
+    "owner": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "metaTags": [
+      "5_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "caAlgo": [
+      "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY"
+    ],
+    "depositAccount": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "properties": {
+      "internal": {
+        "segmentLocked": "1",
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "avatar": "https://images.nf.domains/avatar/a1481ef6-ee4a-4971-99e9-32a8bdef001f"
+      }
+    }
+  },
+  {
+    "appID": 763843768,
+    "asaID": 763843774,
+    "state": "owned",
+    "expired": false,
+    "nfdAccount": "SDFPIY6JJ77XBDDAM3Y57R36ZPZ47UQ7CLGNG3AZ7FYNXXDZWNR4LTLH5M",
+    "name": "gabe.algo",
+    "owner": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "metaTags": [
+      "4_letters",
+      "pristine"
+    ],
+    "category": "premium",
+    "saleType": "buyItNow",
+    "caAlgo": [
+      "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E"
+    ],
+    "depositAccount": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "properties": {
+      "internal": {
+        "ver": "2.12"
+      },
+      "userDefined": {
+        "avatar": "https://images.nf.domains/avatar/8694a54e-4028-4046-adba-896d984cdeb8"
+      },
+      "verified": {
+        "avatar": "ipfs://QmX29ZFav2SpJ7DXhXmLdZ22uKzV1WDycFy5VNLZib3EVE",
+        "avatarasaid": "394743507"
+      }
+    }
+  },
+  {
+    "appID": 841877282,
+    "asaID": 841877288,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2025-12-19T09:31:34Z",
+    "nfdAccount": "5YK2K6U3SJM6QHJKCRHPHEVIEKJNPKTIOB2FQSYBPTZSQKU6SEPH6GNGVQ",
+    "name": "adri.algo",
+    "owner": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "metaTags": [
+      "4_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "caAlgo": [
+      "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA"
+    ],
+    "depositAccount": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "properties": {
+      "internal": {
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "avatar": "https://images.nf.domains/avatar/357f1add-de51-458c-8bcb-5f2075b3de9f",
+        "url": "https://www.algorand.foundation/team"
+      },
+      "verified": {
+        "avatar": "ipfs://QmYzsfJGgkp8baa7TjTFURbEkFD9L6qGwMhWQXUAVQVkfx",
+        "avatarasaid": "350085997"
+      }
+    }
+  },
+  {
+    "appID": 765882196,
+    "asaID": 765882202,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2030-11-17T19:13:14Z",
+    "nfdAccount": "AY4S53GQQ4SX3XK7N5FRYHCQ4SMQG5A5ALIHSC2T263PMIU6AFNAGLSPUE",
+    "name": "urtho.algo",
+    "owner": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "metaTags": [
+      "5_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "caAlgo": [
+      "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU"
+    ],
+    "depositAccount": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "properties": {
+      "internal": {
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "avatar": "https://images.nf.domains/avatar/15cd547f-10ac-46bb-bc63-67ec89b6e18e",
+        "url": "https://linkedin.com/in/urtho"
+      }
+    }
+  },
+  {
+    "appID": 2608795815,
+    "parentAppID": 766401564,
+    "asaID": 2608795818,
+    "state": "owned",
+    "expired": false,
+    "timeExpires": "2025-12-17T01:01:07Z",
+    "nfdAccount": "F653GY3P4VDFPEKBOLQDXLEZVKQ6HSJ6VLSAZYSQTT6HB5NEYIKVPG3LI4",
+    "name": "evertdiaz.directory.algo",
+    "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "metaTags": [
+      "9_letters",
+      "segment"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "depositAccount": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "properties": {
+      "internal": {
+        "segmentLocked": "1",
+        "vaultOptInLocked": "0",
+        "ver": "3.8"
+      },
+      "userDefined": {
+        "avatar": "https://images.nf.domains/avatar/ca8cd126-79c0-4ad4-9ec3-e5bdf84244b3"
+      }
+    }
+  },
+  {
+    "appID": 826576357,
+    "asaID": 826576363,
+    "state": "owned",
+    "expired": false,
+    "nfdAccount": "HLXN67YZOO2RDCWF3LSIV5CESGWHXLDD7QQNHEH5COBRLCJZWZRSG4FJGY",
+    "name": "evertdiaz.algo",
+    "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "metaTags": [
+      "9_letters",
+      "pristine"
+    ],
+    "category": "common",
+    "saleType": "buyItNow",
+    "caAlgo": [
+      "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ"
+    ],
+    "depositAccount": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "properties": {
+      "internal": {
+        "ver": "1.16"
+      }
+    }
+  }
+]

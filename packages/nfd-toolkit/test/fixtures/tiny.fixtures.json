@@ -1,0 +1,61 @@
+[
+  {
+    "name": "phear.algo",
+    "owner": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "caAlgo": [
+      "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY"
+    ],
+    "depositAccount": "BMG2OPCDNEVFG5LW4S6GT33PPEWXVJD7XEDLTED4BFWN5M4HXLZNCK3EWY",
+    "properties": {}
+  },
+  {
+    "name": "gabe.algo",
+    "owner": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "caAlgo": [
+      "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E"
+    ],
+    "depositAccount": "YFN66NKXPMN5YM36H7ZOOBEGZBY7FFNOJ2JKJI6MNUYDXGKJPOQQPZ6Q3E",
+    "properties": {}
+  },
+  {
+    "name": "adri.algo",
+    "owner": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "caAlgo": [
+      "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA"
+    ],
+    "depositAccount": "C3DQJVL6ZVGL6MZ6JBDBEKYEXRV5NCPZYJUJ3BLRDK6V7ETKYC6NO6HOPA",
+    "properties": {
+      "userDefined": {
+        "url": "https://www.algorand.foundation/team"
+      }
+    }
+  },
+  {
+    "name": "urtho.algo",
+    "owner": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "caAlgo": [
+      "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU"
+    ],
+    "depositAccount": "YKTO4C2WAC2BSMJMYKM43YCGUYHU3XHAHAYG6UUSF3BLOF6VMGRXKYB7ZU",
+    "properties": {
+      "userDefined": {
+        "url": "https://linkedin.com/in/urtho"
+      }
+    }
+  },
+  {
+    "name": "evertdiaz.directory.algo",
+    "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "depositAccount": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "properties": {}
+  },
+  {
+    "name": "evertdiaz.algo",
+    "owner": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "caAlgo": [
+      "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ"
+    ],
+    "depositAccount": "AK2UEYKKTUWUXHZGHWYUADCUHVD2TK4K4DEWDRXMKKGYKNLXAFBIRXGNNQ",
+    "properties": {}
+  }
+]

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9382069,
+          39.5162401
+        ]
+      },
+      "properties": {
+        "name": "phear.algo",
+        "marker-color": "#ff602e",
+        "timeChanged": "2024-11-19T00:38:48Z",
+        "avatar": {
+          "verified": false,
+          "url": "https://images.nf.domains/avatar/a1481ef6-ee4a-4971-99e9-32a8bdef001f"
+        },
+        "banner": {
+          "verified": false,
+          "url": "https://images.nf.domains/banner/878fcfdc-61b0-4caa-9e80-350080838969"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.270545,
+          40.0149856
+        ]
+      },
+      "properties": {
+        "name": "gabe.algo",
+        "marker-color": "#ff602e",
+        "timeChanged": "2025-01-16T05:32:32Z",
+        "avatar": {
+          "verified": true,
+          "url": "https://ipfs.algonode.xyz/ipfs/QmfEZK3nVHJGDQqjG8wEjrNMghQFdXygW8u7yyu2eVgtRu"
+        },
+        "banner": {
+          "verified": true,
+          "url": "https://ipfs.algonode.xyz/ipfs/bafybeiag7yek2wu3ahuzewygi2gaxj22mn3zcyaccxlgplg2lfsus6222q"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2082848,
+          -33.8698439
+        ]
+      },
+      "properties": {
+        "name": "adri.algo",
+        "marker-color": "#ff602e",
+        "timeChanged": "2024-12-19T09:31:34Z",
+        "avatar": {
+          "verified": true,
+          "url": "https://ipfs.algonode.xyz/ipfs/QmYzsfJGgkp8baa7TjTFURbEkFD9L6qGwMhWQXUAVQVkfx"
+        },
+        "banner": {
+          "verified": false,
+          "url": "https://images.nf.domains/banner/4c04dee3-a5d3-451e-a02f-54690a45f923"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.134422,
+          52.215933
+        ]
+      },
+      "properties": {
+        "name": "urtho.algo",
+        "marker-color": "#ff602e",
+        "timeChanged": "2024-11-18T19:49:34Z",
+        "avatar": {
+          "verified": false,
+          "url": "https://images.nf.domains/avatar/15cd547f-10ac-46bb-bc63-67ec89b6e18e"
+        },
+        "banner": {
+          "verified": false,
+          "url": "https://images.nf.domains/banner/eb82cab3-7069-40f1-aaff-6a79b8833743"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0458515,
+          -6.8699697
+        ]
+      },
+      "properties": {
+        "name": "evertdiaz.directory.algo",
+        "marker-color": "#ff602e",
+        "timeChanged": "2024-12-17T01:06:51Z",
+        "avatar": {
+          "verified": false,
+          "url": "https://images.nf.domains/avatar/ca8cd126-79c0-4ad4-9ec3-e5bdf84244b3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40,
+          25
+        ]
+      },
+      "properties": {
+        "name": "evertdiaz.algo",
+        "marker-color": "#ff602e",
+        "timeChanged": "2023-07-05T22:19:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "moduleResolution": "node",
+    "module": "esnext",
+    "target": "esnext",
+    "strict": true
+  },
+  "include": ["**/*.ts"],
+}
