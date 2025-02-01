@@ -1,6 +1,7 @@
 {
   "name": "@awesome-algorand/nfd-toolkit",
   "type": "module",
+  "version": "0.0.1-experimental.1",
   "description": "Tools for interacting with NFDs",
   "author": "Awesome Algorand",
   "license": "Unlicense",
@@ -21,23 +22,27 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "@awesome-algorand/nfd-fetch": "^0.0.1-experimental.2"
+    "@awesome-algorand/nfd-fetch": "^0.0.1-experimental.2",
+    "@turf/helpers": "^7.2.0",
+    "leaflet": "^1.9.4"
   },
   "devDependencies": {
+    "@awesome-algorand/nfd-fetch": "^0.0.1-experimental.2",
     "@hey-api/client-fetch": "^0.7.2",
+    "@turf/helpers": "^7.2.0",
+    "@types/leaflet": "^1.9.16",
     "@types/node": "^22.12.0",
     "@types/turf": "^3.5.32",
     "@vitest/coverage-v8": "^3.0.4",
     "@vitest/ui": "^3.0.4",
+    "leaflet": "^1.9.4",
     "tsc-alias": "^1.8.10",
     "typescript": "^5.7.3",
     "vitest": "^3.0.4"
   },
   "dependencies": {
     "@awesome-algorand/ipfs-toolkit": "^0.0.1-experimental",
-    "@awesome-algorand/nfd-fetch": "^0.0.1-experimental.2",
     "@hey-api/client-fetch": "^0.7.2",
-    "@turf/helpers": "^7.2.0",
     "async-mutex": "^0.5.0"
   }
 }

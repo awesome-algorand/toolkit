@@ -1,4 +1,4 @@
-import {NFDProperties} from "@awesome-algorand/nfd-fetch";
+import type {NFDProperties} from "@awesome-algorand/nfd-fetch";
 import {toImageUrl, isIPFSUrl, DEFAULT_GATEWAY} from "@awesome-algorand/ipfs-toolkit";
 
 /**
@@ -56,7 +56,7 @@ export async function getUrl(properties?: NFDProperties, ipfsGateway: string = D
     }
 
     // Fetch the image URL
-    const url = properties?.userDefined?.avatar as string
+    const url = properties?.verified?.avatar as string || properties?.userDefined?.avatar as string
     const resp = await fetch(url);
     if (!resp.ok) {
         throw new Error(`Failed to fetch IPFS URL: ${url}`);

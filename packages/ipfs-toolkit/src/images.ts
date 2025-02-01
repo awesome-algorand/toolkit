@@ -1,4 +1,4 @@
-import {DEFAULT_GATEWAY} from "./constants";
+import {DEFAULT_GATEWAY} from "./constants.js";
 
 /**
  * Checks if the given URL is an IPFS URL.

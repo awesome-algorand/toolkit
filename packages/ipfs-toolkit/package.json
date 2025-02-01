@@ -1,7 +1,7 @@
 {
   "name": "@awesome-algorand/ipfs-toolkit",
   "description": "Tools for interacting with IPFS",
-  "version": "0.0.1-experimental",
+  "version": "0.0.1-experimental.1",
   "type": "module",
   "author": "Awesome Algorand",
   "license": "Unlicense",

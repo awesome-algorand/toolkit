@@ -1,4 +1,4 @@
-import {NFDProperties} from "@awesome-algorand/nfd-fetch";
+import type {NFDProperties} from "@awesome-algorand/nfd-fetch";
 import {toImageUrl, isIPFSUrl, DEFAULT_GATEWAY} from "@awesome-algorand/ipfs-toolkit";
 
 
@@ -27,7 +27,7 @@ export function isSet(properties?: NFDProperties): boolean {
  */
 export async function getUrl(properties?: NFDProperties, ipfsGateway: string = DEFAULT_GATEWAY): Promise<string> {
     if(!isSet(properties)) {
-        throw new TypeError("No avatar URL set, use isSet to check if the avatar is defined.");
+        throw new TypeError("No banner URL set, use isSet to check if the avatar is defined.");
     }
     if (isVerified(properties) && isIPFSUrl(properties?.verified?.banner as string)) {
         return await toImageUrl(properties?.verified?.banner as string, ipfsGateway);
@@ -38,7 +38,7 @@ export async function getUrl(properties?: NFDProperties, ipfsGateway: string = D
     }
 
     // Fetch the image URL
-    const url = properties?.userDefined?.banner as string
+    const url = properties?.verified?.banner as string || properties?.userDefined?.banner as string
     const resp = await fetch(url);
     if (!resp.ok) {
         throw new Error(`Failed to fetch IPFS URL: ${url}`);
@@ -56,5 +56,5 @@ export async function getUrl(properties?: NFDProperties, ipfsGateway: string = D
     }
 
     // Fail if the content type is not supported
-    throw new Error("Failed to determine avatar URL.");
+    throw new Error("Failed to determine banner URL.");
 }

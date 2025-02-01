@@ -1,6 +1,6 @@
 import {vi} from 'vitest'
-import {DEFAULT_IMAGE_URL} from "../src/constants.js";
 import {DEFAULT_GATEWAY} from "@awesome-algorand/ipfs-toolkit";
+import {DEFAULT_IMAGE_URL} from "../src/constants.js";
 import {OpenStreetResponse, OSM_URL} from "../src/turf/osm.js";
 
 const ipfsMetadata: {[k: string]: {image: string}} = {

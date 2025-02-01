@@ -21,7 +21,5 @@ describe("Feature Collection", () => {
         })
         expect(await toFeatureCollection(fullFixtures as unknown as NfdRecordCollection)).toEqual(fullGolden)
     }, 10000)
-
-
 })
 
