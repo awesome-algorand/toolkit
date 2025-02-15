@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "./",
+      "name": "ROOT"
+    },
+    {
+      "path": "packages/d13-toolkit"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "packages/": true
+    },
+    "jest.disabledWorkspaceFolders": [
+      "ROOT",
+      "packages"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "joshx.workspace-terminals"
+    ]
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": []
+  },
+  "launch": {
+    "configurations": []
+  }
+}

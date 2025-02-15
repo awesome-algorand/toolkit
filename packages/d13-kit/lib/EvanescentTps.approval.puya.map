@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "sources": [
+    "/home/zero/Projects/awesome-algorand/toolkit/packages/d13-kit/contracts/evanescent_tps.py"
+  ],
+  "mappings": ";AAK8B;;;AAAR;AACM;;;AAAR;AAC+B;;AAAZ;AAAA;AAApB;AAAA;;AAAA;AAAnB;;;AACgB;;AAAA;;AAAJ;AADO;;AAAA;AAAA;;;;;AAEJ;;AAAP",
+  "op_pc_offset": 0,
+  "pc_events": {
+    "1": {
+      "subroutine": "contracts.evanescent_tps.EvanescentTps.approval_program",
+      "params": {},
+      "block": "main",
+      "stack_in": [],
+      "op": "txna ApplicationArgs 0",
+      "defined_out": [
+        "tmp%0#0"
+      ],
+      "stack_out": [
+        "tmp%0#0"
+      ]
+    },
+    "4": {
+      "op": "btoi",
+      "defined_out": [
+        "start_round#0"
+      ],
+      "stack_out": [
+        "start_round#0"
+      ]
+    },
+    "5": {
+      "op": "txna ApplicationArgs 1",
+      "defined_out": [
+        "start_round#0",
+        "tmp%1#0"
+      ],
+      "stack_out": [
+        "start_round#0",
+        "tmp%1#0"
+      ]
+    },
+    "8": {
+      "op": "btoi",
+      "defined_out": [
+        "end_round#0",
+        "start_round#0"
+      ],
+      "stack_out": [
+        "start_round#0",
+        "end_round#0"
+      ]
+    },
+    "9": {
+      "op": "pushint 1 // 1",
+      "defined_out": [
+        "1",
+        "end_round#0",
+        "start_round#0"
+      ],
+      "stack_out": [
+        "start_round#0",
+        "end_round#0",
+        "1"
+      ]
+    },
+    "11": {
+      "op": "+",
+      "defined_out": [
+        "start_round#0",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "start_round#0",
+        "tmp%2#0"
+      ]
+    },
+    "12": {
+      "op": "swap",
+      "defined_out": [
+        "rnd#1",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1"
+      ]
+    },
+    "13": {
+      "block": "main_for_header@1",
+      "stack_in": [
+        "tmp%2#0",
+        "rnd#1"
+      ],
+      "op": "dup",
+      "defined_out": [
+        "rnd#1"
+      ],
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1",
+        "rnd#1"
+      ]
+    },
+    "14": {
+      "op": "dig 2",
+      "defined_out": [
+        "rnd#1",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1",
+        "rnd#1",
+        "tmp%2#0"
+      ]
+    },
+    "16": {
+      "op": "<",
+      "defined_out": [
+        "continue_looping%0#0",
+        "rnd#1",
+        "tmp%2#0"
+      ],
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1",
+        "continue_looping%0#0"
+      ]
+    },
+    "17": {
+      "op": "bz main_after_for@4",
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1"
+      ]
+    },
+    "20": {
+      "op": "dupn 2"
+    },
+    "22": {
+      "op": "block BlkProposer"
+    },
+    "24": {
+      "op": "log"
+    },
+    "25": {
+      "op": "pushint 1 // 1"
+    },
+    "27": {
+      "op": "+"
+    },
+    "28": {
+      "op": "bury 1"
+    },
+    "30": {
+      "op": "b main_for_header@1"
+    },
+    "33": {
+      "block": "main_after_for@4",
+      "stack_in": [
+        "tmp%2#0",
+        "rnd#1"
+      ],
+      "op": "pushint 1 // 1",
+      "defined_out": [
+        "1"
+      ],
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1",
+        "1"
+      ]
+    },
+    "35": {
+      "op": "return",
+      "stack_out": [
+        "tmp%2#0",
+        "rnd#1"
+      ]
+    }
+  }
+}

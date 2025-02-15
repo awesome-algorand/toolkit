@@ -1,0 +1,45 @@
+{
+  "name": "@awesome-algorand/d13-kit",
+  "version": "0.0.1",
+  "description": "Stimulate methods and utilities",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "exports": {
+    "./proposals": {
+      "types": "./lib/EvanescentProposals.d.ts",
+      "default": "./lib/EvanescentProposals.js"
+    },
+    "./proposals.arc32.json": "./lib/EvanescentProposals.arc32.json",
+    "./tps": {
+      "types": "./lib/EvanescentTPS.d.ts",
+      "default": "./lib/EvanescentTPS.js"
+    },
+    "./tps.arc32.json": "./lib/EvanescentTPS.arc32.json"
+  },
+  "scripts": {
+    "build": "npm run artifacts && npm run generate && tsc",
+    "artifacts": "concurrently \"npm run artifacts:*\"",
+    "artifacts:tps": "algokit compile python ./contracts/evanescent_tps.py --out-dir ../lib/ --output-arc32 --output-source-map",
+    "artifacts:proposals": "algokit compile python ./contracts/evanescent_proposals.py --out-dir ../lib/ --output-arc32 --output-source-map",
+    "generate": "mkdir -p src && concurrently \"npm run generate:*\"",
+    "generate:tps": "algokit generate client -l typescript -o src/EvanescentTps.ts ./lib/EvanescentTps.arc32.json",
+    "generate:proposals": "algokit generate client -l typescript -o src/EvanescentProposals.ts ./lib/EvanescentProposals.arc32.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Awesome Algorand",
+  "contributors": [
+    "aorumbayev",
+    "d13",
+    "Zero"
+  ],
+  "license": "Unlicense",
+  "peerDependencies": {
+    "@algorandfoundation/algokit-utils": "^8.1.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "typescript": "^5.7.3"
+  }
+}

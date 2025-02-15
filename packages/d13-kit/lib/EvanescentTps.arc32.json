@@ -1,0 +1,35 @@
+{
+    "hints": {},
+    "source": {
+        "approval": "I3ByYWdtYSB2ZXJzaW9uIDExCiNwcmFnbWEgdHlwZXRyYWNrIGZhbHNlCgovLyBjb250cmFjdHMuZXZhbmVzY2VudF90cHMuRXZhbmVzY2VudFRwcy5hcHByb3ZhbF9wcm9ncmFtKCkgLT4gdWludDY0OgptYWluOgogICAgLy8gY29udHJhY3RzL2V2YW5lc2NlbnRfdHBzLnB5OjYKICAgIC8vIHN0YXJ0X3JvdW5kID0gb3AuYnRvaShUeG4uYXBwbGljYXRpb25fYXJncygwKSkKICAgIHR4bmEgQXBwbGljYXRpb25BcmdzIDAKICAgIGJ0b2kKICAgIC8vIGNvbnRyYWN0cy9ldmFuZXNjZW50X3Rwcy5weTo3CiAgICAvLyBlbmRfcm91bmQgPSBvcC5idG9pKFR4bi5hcHBsaWNhdGlvbl9hcmdzKDEpKQogICAgdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMQogICAgYnRvaQogICAgLy8gY29udHJhY3RzL2V2YW5lc2NlbnRfdHBzLnB5OjgKICAgIC8vIGZvciBybmQgaW4gdXJhbmdlKHN0YXJ0X3JvdW5kLCBlbmRfcm91bmQgKyAxKToKICAgIHB1c2hpbnQgMSAvLyAxCiAgICArCiAgICBzd2FwCgptYWluX2Zvcl9oZWFkZXJAMToKICAgIC8vIGNvbnRyYWN0cy9ldmFuZXNjZW50X3Rwcy5weTo4CiAgICAvLyBmb3Igcm5kIGluIHVyYW5nZShzdGFydF9yb3VuZCwgZW5kX3JvdW5kICsgMSk6CiAgICBkdXAKICAgIGRpZyAyCiAgICA8CiAgICBieiBtYWluX2FmdGVyX2ZvckA0CiAgICAvLyBjb250cmFjdHMvZXZhbmVzY2VudF90cHMucHk6OQogICAgLy8gbG9nKG9wLkJsb2NrLmJsa19wcm9wb3NlcihybmQpKQogICAgZHVwbiAyCiAgICBibG9jayBCbGtQcm9wb3NlcgogICAgbG9nCiAgICAvLyBjb250cmFjdHMvZXZhbmVzY2VudF90cHMucHk6OAogICAgLy8gZm9yIHJuZCBpbiB1cmFuZ2Uoc3RhcnRfcm91bmQsIGVuZF9yb3VuZCArIDEpOgogICAgcHVzaGludCAxIC8vIDEKICAgICsKICAgIGJ1cnkgMQogICAgYiBtYWluX2Zvcl9oZWFkZXJAMQoKbWFpbl9hZnRlcl9mb3JANDoKICAgIC8vIGNvbnRyYWN0cy9ldmFuZXNjZW50X3Rwcy5weToxMAogICAgLy8gcmV0dXJuIFRydWUKICAgIHB1c2hpbnQgMSAvLyAxCiAgICByZXR1cm4K",
+        "clear": "I3ByYWdtYSB2ZXJzaW9uIDExCiNwcmFnbWEgdHlwZXRyYWNrIGZhbHNlCgovLyBhbGdvcHkuYXJjNC5BUkM0Q29udHJhY3QuY2xlYXJfc3RhdGVfcHJvZ3JhbSgpIC0+IHVpbnQ2NDoKbWFpbjoKICAgIHB1c2hpbnQgMSAvLyAxCiAgICByZXR1cm4K"
+    },
+    "state": {
+        "global": {
+            "num_byte_slices": 0,
+            "num_uints": 0
+        },
+        "local": {
+            "num_byte_slices": 0,
+            "num_uints": 0
+        }
+    },
+    "schema": {
+        "global": {
+            "declared": {},
+            "reserved": {}
+        },
+        "local": {
+            "declared": {},
+            "reserved": {}
+        }
+    },
+    "contract": {
+        "name": "EvanescentTps",
+        "methods": [],
+        "networks": {}
+    },
+    "bare_call_config": {
+        "no_op": "CREATE"
+    }
+}

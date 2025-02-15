@@ -1,0 +1,35 @@
+{
+    "hints": {},
+    "source": {
+        "approval": "I3ByYWdtYSB2ZXJzaW9uIDExCiNwcmFnbWEgdHlwZXRyYWNrIGZhbHNlCgovLyBjb250cmFjdHMuZXZhbmVzY2VudF9wcm9wb3NhbHMuRXZhbmVzY2VudFByb3Bvc2Fscy5hcHByb3ZhbF9wcm9ncmFtKCkgLT4gdWludDY0OgptYWluOgogICAgLy8gY29udHJhY3RzL2V2YW5lc2NlbnRfcHJvcG9zYWxzLnB5OjcKICAgIC8vIHN0YXJ0X3JvdW5kID0gb3AuYnRvaShUeG4uYXBwbGljYXRpb25fYXJncygwKSkKICAgIHR4bmEgQXBwbGljYXRpb25BcmdzIDAKICAgIGJ0b2kKICAgIC8vIGNvbnRyYWN0cy9ldmFuZXNjZW50X3Byb3Bvc2Fscy5weTo4CiAgICAvLyBlbmRfcm91bmQgPSBvcC5idG9pKFR4bi5hcHBsaWNhdGlvbl9hcmdzKDEpKQogICAgdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMQogICAgYnRvaQogICAgLy8gY29udHJhY3RzL2V2YW5lc2NlbnRfcHJvcG9zYWxzLnB5OjkKICAgIC8vIGZvciBybmQgaW4gdXJhbmdlKHN0YXJ0X3JvdW5kLCBlbmRfcm91bmQgKyAxKToKICAgIHB1c2hpbnQgMSAvLyAxCiAgICArCiAgICBzd2FwCgptYWluX2Zvcl9oZWFkZXJAMToKICAgIC8vIGNvbnRyYWN0cy9ldmFuZXNjZW50X3Byb3Bvc2Fscy5weTo5CiAgICAvLyBmb3Igcm5kIGluIHVyYW5nZShzdGFydF9yb3VuZCwgZW5kX3JvdW5kICsgMSk6CiAgICBkdXAKICAgIGRpZyAyCiAgICA8CiAgICBieiBtYWluX2FmdGVyX2ZvckA0CiAgICAvLyBjb250cmFjdHMvZXZhbmVzY2VudF9wcm9wb3NhbHMucHk6MTIKICAgIC8vIG9wLml0b2Iob3AuQmxvY2suYmxrX3RpbWVzdGFtcChybmQpKSwKICAgIGR1cG4gMgogICAgYmxvY2sgQmxrVGltZXN0YW1wCiAgICBpdG9iCiAgICAvLyBjb250cmFjdHMvZXZhbmVzY2VudF9wcm9wb3NhbHMucHk6MTMKICAgIC8vIG9wLml0b2Iob3AuQmxvY2suYmxrX3R4bl9jb3VudGVyKHJuZCkpLAogICAgZGlnIDEKICAgIGJsb2NrIEJsa1R4bkNvdW50ZXIKICAgIGl0b2IKICAgIC8vIGNvbnRyYWN0cy9ldmFuZXNjZW50X3Byb3Bvc2Fscy5weToxMS0xNAogICAgLy8gb3AuY29uY2F0KAogICAgLy8gICAgIG9wLml0b2Iob3AuQmxvY2suYmxrX3RpbWVzdGFtcChybmQpKSwKICAgIC8vICAgICBvcC5pdG9iKG9wLkJsb2NrLmJsa190eG5fY291bnRlcihybmQpKSwKICAgIC8vICkKICAgIGNvbmNhdAogICAgLy8gY29udHJhY3RzL2V2YW5lc2NlbnRfcHJvcG9zYWxzLnB5OjEwLTE1CiAgICAvLyBsb2coCiAgICAvLyAgICAgb3AuY29uY2F0KAogICAgLy8gICAgICAgICBvcC5pdG9iKG9wLkJsb2NrLmJsa190aW1lc3RhbXAocm5kKSksCiAgICAvLyAgICAgICAgIG9wLml0b2Iob3AuQmxvY2suYmxrX3R4bl9jb3VudGVyKHJuZCkpLAogICAgLy8gICAgICkKICAgIC8vICkKICAgIGxvZwogICAgLy8gY29udHJhY3RzL2V2YW5lc2NlbnRfcHJvcG9zYWxzLnB5OjkKICAgIC8vIGZvciBybmQgaW4gdXJhbmdlKHN0YXJ0X3JvdW5kLCBlbmRfcm91bmQgKyAxKToKICAgIHB1c2hpbnQgMSAvLyAxCiAgICArCiAgICBidXJ5IDEKICAgIGIgbWFpbl9mb3JfaGVhZGVyQDEKCm1haW5fYWZ0ZXJfZm9yQDQ6CiAgICAvLyBjb250cmFjdHMvZXZhbmVzY2VudF9wcm9wb3NhbHMucHk6MTYKICAgIC8vIHJldHVybiBUcnVlCiAgICBwdXNoaW50IDEgLy8gMQogICAgcmV0dXJuCg==",
+        "clear": "I3ByYWdtYSB2ZXJzaW9uIDExCiNwcmFnbWEgdHlwZXRyYWNrIGZhbHNlCgovLyBhbGdvcHkuYXJjNC5BUkM0Q29udHJhY3QuY2xlYXJfc3RhdGVfcHJvZ3JhbSgpIC0+IHVpbnQ2NDoKbWFpbjoKICAgIHB1c2hpbnQgMSAvLyAxCiAgICByZXR1cm4K"
+    },
+    "state": {
+        "global": {
+            "num_byte_slices": 0,
+            "num_uints": 0
+        },
+        "local": {
+            "num_byte_slices": 0,
+            "num_uints": 0
+        }
+    },
+    "schema": {
+        "global": {
+            "declared": {},
+            "reserved": {}
+        },
+        "local": {
+            "declared": {},
+            "reserved": {}
+        }
+    },
+    "contract": {
+        "name": "EvanescentProposals",
+        "methods": [],
+        "networks": {}
+    },
+    "bare_call_config": {
+        "no_op": "CREATE"
+    }
+}

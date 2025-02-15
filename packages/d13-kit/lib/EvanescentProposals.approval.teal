@@ -1,0 +1,62 @@
+#pragma version 11
+#pragma typetrack false
+
+// contracts.evanescent_proposals.EvanescentProposals.approval_program() -> uint64:
+main:
+    // contracts/evanescent_proposals.py:7
+    // start_round = op.btoi(Txn.application_args(0))
+    txna ApplicationArgs 0
+    btoi
+    // contracts/evanescent_proposals.py:8
+    // end_round = op.btoi(Txn.application_args(1))
+    txna ApplicationArgs 1
+    btoi
+    // contracts/evanescent_proposals.py:9
+    // for rnd in urange(start_round, end_round + 1):
+    pushint 1 // 1
+    +
+    swap
+
+main_for_header@1:
+    // contracts/evanescent_proposals.py:9
+    // for rnd in urange(start_round, end_round + 1):
+    dup
+    dig 2
+    <
+    bz main_after_for@4
+    // contracts/evanescent_proposals.py:12
+    // op.itob(op.Block.blk_timestamp(rnd)),
+    dupn 2
+    block BlkTimestamp
+    itob
+    // contracts/evanescent_proposals.py:13
+    // op.itob(op.Block.blk_txn_counter(rnd)),
+    dig 1
+    block BlkTxnCounter
+    itob
+    // contracts/evanescent_proposals.py:11-14
+    // op.concat(
+    //     op.itob(op.Block.blk_timestamp(rnd)),
+    //     op.itob(op.Block.blk_txn_counter(rnd)),
+    // )
+    concat
+    // contracts/evanescent_proposals.py:10-15
+    // log(
+    //     op.concat(
+    //         op.itob(op.Block.blk_timestamp(rnd)),
+    //         op.itob(op.Block.blk_txn_counter(rnd)),
+    //     )
+    // )
+    log
+    // contracts/evanescent_proposals.py:9
+    // for rnd in urange(start_round, end_round + 1):
+    pushint 1 // 1
+    +
+    bury 1
+    b main_for_header@1
+
+main_after_for@4:
+    // contracts/evanescent_proposals.py:16
+    // return True
+    pushint 1 // 1
+    return
